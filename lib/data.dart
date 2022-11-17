@@ -1,6 +1,6 @@
 import 'package:metz_wallpaper/utls/catagories_model.dart';
 
-String apiKEY = "563492ad6f91700001000001738ae41324ba4c1fa2fb9dd15a0d12c7";
+String apiKEY = "Your_api Key from pexels";
 
 List<CategorieModel> getCategories() {
   List<CategorieModel> categories = [];
